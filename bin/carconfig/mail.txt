@@ -1,0 +1,17 @@
+----------Mercedes-Benz AG----------
+Vielen Dank für Ihre Bestellung.
+-----------------------------------
+IHRE BESTELLUNG:
+-----------------------------------
+MODELL:			E-Klasse
+Preis:			43018.52,-
+
+AUSSTATTUNG: 
+Name:			AMG
+Beschreibung:	Analoguhr, Multifunktionslenkrad in Leder Napa, AMG-Styling
+Preis:			8289.68
+-----------------------------------
+GESAMTPREIS:	51308.2,-
+-----------------------------------
+-----------------------------------
+Die Lieferung erfolgt am: 13/10/2017

@@ -1,0 +1,101 @@
+{
+	"modelle": [
+		{
+			"name": "S-Klasse",
+			"preis": 83812.34,
+			"lieferzeit":28,
+			"pakete":
+            [
+				{
+					"name": "AMG",
+					"beschreibung": "AMG-Felgen, AMG-Matten, Kühlergrill, AMG-Lenkrad,Schiebedach" ,
+					"preis": 9970.32
+				},
+				{
+					"name": "Exclusive",
+					"beschreibung": "Alcantara-Leder, Xenon, Klima, Navigation, Wegfahrsperre",
+					"preis": 3231.42
+				},
+				{
+					"name": "Avantgarde",
+					"beschreibung": "Leder Sitze, Standheizung, Tempomat, Multifunktionslenkrad",
+					"preis": 6382.84
+				}
+			]
+		},
+		{
+			"name": "E-Klasse",
+			"preis": "43018.52",
+			"lieferzeit":23,
+			"pakete":
+            [
+				{
+					"name": "AMG",
+					"beschreibung": "Analoguhr, Multifunktionslenkrad in Leder Napa, AMG-Styling",
+					"preis": 8289.68
+				},
+				{
+					"name": "Exclusive",
+					"beschreibung": "Lederausstattung, Exclusive Exterior, Exclusive Interior",
+					"preis": 6231.40
+				},
+				{
+					"name": "Avantgarde",
+					"beschreibung": "Leder Sitze, Standheizung, Tempomat, Multifunktionslenkrad",
+					"preis": 3782.89
+				}
+            ]
+
+        },
+
+		{
+            "name": "C-Klasse",
+			"preis": "36348.50",
+			"lieferzeit":17,
+			"pakete":
+            [
+				{
+					"name": "AMG",
+					"beschreibung": "Analoguhr, Multifunktionslenkrad in Leder Napa, AMG-Styling",
+					"preis": 6424.35
+				},
+				{
+					"name": "Exclusive",
+					"beschreibung": "Lederausstattung, Exclusive Exterior, Exclusive Interior",
+					"preis": 4321.84
+				},
+				{
+					"name": "Avantgarde",
+					"beschreibung": "Leder Sitze, Standheizung, Tempomat, Multifunktionslenkrad",
+					"preis": 2789.33
+				}
+            ]
+
+		},
+		{
+            "name": "AMG-GT",
+			"preis": "126348.50",
+			"lieferzeit":38,
+			"pakete":
+            [
+				{
+					"name": "AMG",
+					"beschreibung": "Analoguhr, Multifunktionslenkrad in Leder Napa, AMG-Styling",
+					"preis": 16424.35
+				},
+				{
+					"name": "Exclusive",
+					"beschreibung": "Lederausstattung, Exclusive Exterior, Exclusive Interior",
+					"preis": 14321.84
+				},
+				{
+					"name": "Avantgarde",
+					"beschreibung": "Leder Sitze, Standheizung, Tempomat, Multifunktionslenkrad",
+					"preis": 12789.33
+				}
+            ]
+
+		}
+	]
+}
+
