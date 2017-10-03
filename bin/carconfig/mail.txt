@@ -3,15 +3,15 @@ Vielen Dank für Ihre Bestellung.
 -----------------------------------
 IHRE BESTELLUNG:
 -----------------------------------
-MODELL:			E-Klasse
-Preis:			43018.52,-
+MODELL:			S-Klasse
+Preis:			83812.34,-
 
 AUSSTATTUNG: 
-Name:			AMG
-Beschreibung:	Analoguhr, Multifunktionslenkrad in Leder Napa, AMG-Styling
-Preis:			8289.68
+Name:			Exclusive
+Beschreibung:	Alcantara-Leder, Xenon, Klima, Navigation, Wegfahrsperre
+Preis:			3231.42
 -----------------------------------
-GESAMTPREIS:	51308.2,-
+GESAMTPREIS:	87043.76,-
 -----------------------------------
 -----------------------------------
-Die Lieferung erfolgt am: 13/10/2017
+Die Lieferung erfolgt am: 31/10/2017

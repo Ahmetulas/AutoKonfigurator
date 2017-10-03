@@ -1,4 +1,4 @@
-package carconfig;
+package carconfig.Modell;
 
 import java.io.PrintWriter;
 
@@ -21,35 +21,19 @@ public class Paket {
 	public String getNamePaket(){
 		return this.name;
 	}
-	
-	public void setaNamePaket(String name){
-		this.name=name;
-	}
-	
 	public double getPreisPaket(){
 		return this.preis;
 	}
-	
-	public void setPreisPaket(double preis){
-		this.preis=preis;
-	}
-	
 	public String getBeschreibungPaket(){
 		return this.beschreibung;
 	}
-	
-	public void setBeschreibung(String beschreibung){
-		this.beschreibung=beschreibung;
-	}
-	
-	
+
 	public void getAlleInfos(){
 		System.out.println("Name:			"+this.getNamePaket());
 		System.out.println("Beschreibung:	"+this.getBeschreibungPaket());
 		System.out.println("Preis:			"+this.getPreisPaket());
 	}
-	
-	
+
 	public void getAlleInfosMail(PrintWriter writer){
 		writer.println("Name:			"+this.getNamePaket());
 		writer.println("Beschreibung:	"+this.getBeschreibungPaket());
